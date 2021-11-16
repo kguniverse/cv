@@ -9,39 +9,39 @@ homepage:
   text: kguniverse.github.io
 ---
 
-# ÍõÇ¬„P **KG**
+# ç‹ä¹¾å‡± **KG**
 
 {% include cv-contact.html %}
 
-## ¼¼ÊõÕ»
-±à³ÌÓïÑÔ: c/c++/java/python/golang | html/javascript<br>
-¿ª·¢¿ò¼Ü: springboot/gin/sanic | vue/react | docker<br>
-Éî¶ÈÑ§Ï°¿ò¼Ü: pytorch/scipy<br>
+## æŠ€æœ¯æ ˆ
+ç¼–ç¨‹è¯­è¨€: c/c++/java/python/golang | html/javascript<br>
+å¼€å‘æ¡†æ¶: springboot/gin/sanic | vue/react | docker<br>
+æ·±åº¦å­¦ä¹ æ¡†æ¶: pytorch/scipy<br>
 
 ## Education
 
-### **±±¾©ÓÊµç´óÑ§** `2019.9 - (2023.6 ¼Æ»®)`
+### **åŒ—äº¬é‚®ç”µå¤§å­¦** `2019.9 - (2023.6 è®¡åˆ’)`
 
-- ¼ÆËã»ú¿ÆÑ§Óë¼¼Êõ×¨Òµ
+- è®¡ç®—æœºç§‘å­¦ä¸æŠ€æœ¯ä¸“ä¸š
 
-## ÏîÄ¿¾­Àú
+## é¡¹ç›®ç»å†
 
-### ×Ö½ÚÌø¶¯ºó¶Ë¼¼ÊõÓª `2021.11`
+### å­—èŠ‚è·³åŠ¨åç«¯æŠ€æœ¯è¥ `2021.11`
 
-_ÏîÄ¿×é³¤_<br>
+_é¡¹ç›®ç»„é•¿_<br>
 It is project of a web-api of APP greyRelease.<br>
 In two weeks, I organize my members, learning new language(_golang_) & frameworks(_gin&vue&docker_), developing the program and deploying it on the platform.<br>
-[Á´½Ó](https://github.com/kguniverse/techtrainingcamp-AppUpgrade)
+[é“¾æ¥](https://github.com/kguniverse/techtrainingcamp-AppUpgrade)
 
-### ±±ÓÊÍ¼ÏñÃÀÑ§ÑĞ¾¿×é `2021.7 -`
+### åŒ—é‚®å›¾åƒç¾å­¦ç ”ç©¶ç»„ `2021.7 -`
 
-_ÑĞ¾¿ÊµÏ°_<br> 
+_ç ”ç©¶å®ä¹ _<br> 
 
-### ±±ÓÊACM-ICPC¼¯Ñµ¶Ó `2020.9-2021.6`
+### åŒ—é‚®ACM-ICPCé›†è®­é˜Ÿ `2020.9-2021.6`
 
-_³ÉÔ±_<br>
+_æˆå‘˜_<br>
 In this period of time, I attent two region contest and won a bronze medal.<br>
 
-## »ñµÃ½±Ïî
-µÚ45½ìICPCÑÇÖŞÇøÓòÈü¼ÃÄÏÕ¾ Í­½± `2020` <br>
-È«¹ú¸ßÖĞÊıÑ§ÁªÈü ¶şµÈ½± `2019`<br>
+## è·å¾—å¥–é¡¹
+ç¬¬45å±ŠICPCäºšæ´²åŒºåŸŸèµ›æµå—ç«™ é“œå¥– `2020` <br>
+å…¨å›½é«˜ä¸­æ•°å­¦è”èµ› äºŒç­‰å¥– `2019`<br>
